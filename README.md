@@ -19,11 +19,11 @@ Built to provide a smoother way to launch Minecraft, Apex Launcher combines a mi
 
 ## Current Release
 
-Alpha Preview Release 1
+Alpha Release 1
 
-- Version: Alpha Preview Release 1
+- Version:Release 1
 - Platform: Windows
-- Size: 45 MB
+- Size: 133 MB
 
 ## Installation
 
@@ -38,8 +38,7 @@ Planned improvements:
 
 - Improved launcher customization
 - Additional performance optimizations
-- More Minecraft-related features
-- Enhanced user experience
+- More Minecraft Features
 
 ## Disclaimer
 
@@ -48,3 +47,4 @@ Apex Launcher is an independent project and is not affiliated with Mojang Studio
 ## License
 
 See the LICENSE file for usage terms.
+**Apex Cybernetics**
