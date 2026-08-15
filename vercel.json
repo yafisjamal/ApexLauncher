@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/admin",
+      "destination": "https://apex-website-1--adventuremadesx.replit.app/admin"
+    },
+    {
+      "source": "/admin/:path*",
+      "destination": "https://apex-website-1--adventuremadesx.replit.app/admin/:path*"
+    }
+  ]
+}
